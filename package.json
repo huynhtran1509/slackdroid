@@ -1,0 +1,11 @@
+{
+	"name": "slackdroid",
+	"version": "0.0.1",
+	"description": "Slackbot for Android stuffs",
+	"main": "bot.js",
+	"dependencies": {
+		"botkit": "0.0.5"
+	},
+	"author": "evan.halley@willowtreeapps.com",
+	"license": "Apache License, Version 2.0"
+}
